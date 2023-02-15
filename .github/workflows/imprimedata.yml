@@ -19,7 +19,7 @@ jobs:
         run: date
 
   imprime_data_macos:
-    name: Imprime data atual - Windows
+    name: Imprime data atual - macos
     runs-on: macos-latest
     
     steps:
